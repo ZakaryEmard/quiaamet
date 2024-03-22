@@ -1,0 +1,31 @@
+{
+  "name": "quiaamet",
+  "version": "1.0.0",
+  "bugs": {
+    "url": "https://github.com/ZakaryEmard/quiaamet.git/issues"
+  },
+  "description": "A pure JavaScript implementation of the AES block cipher and all common modes of operation.",
+  "devDependencies": {
+    "nodeunit": "0.9.1"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZakaryEmard/quiaamet.git"
+  },
+  "keywords": [
+    "quam",
+    "assumenda",
+    "omnis",
+    "aes-ecb",
+    "aes-cbc",
+    "aes-cfb",
+    "in",
+    "decrypt",
+    "blanditiis",
+    "consequatur"
+  ],
+  "author": "KathryneHaag",
+  "license": "MIT",
+  "homepage": "https://github.com/ZakaryEmard/quiaamet.git"
+}
